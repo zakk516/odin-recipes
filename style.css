@@ -1,0 +1,31 @@
+* {
+    background-color: lightblue;
+}
+.main-header {
+    font-size: 100px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: impact;
+
+}
+
+.header-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+a { 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    color: black;
+}
+
+ul {
+    display: inline;
+    text-align: center;
+    padding-left: auto;
+    padding-right: auto;
+    Padding-top: 30px;
+}
